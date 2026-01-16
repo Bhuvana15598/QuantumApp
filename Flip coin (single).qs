@@ -2,6 +2,8 @@
 
    import Std.Intrinsic.*;
    import Std.Measurement.*;
+
+   // adding comments
    
     @EntryPoint()
     operation FlipQuantumCoin() : Result {
