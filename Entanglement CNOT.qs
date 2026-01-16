@@ -2,7 +2,7 @@
 
    import Std.Intrinsic.*;
 import Std.Measurement.*;
-
+// entry point
 @EntryPoint()
 operation EntangleQubits() : Unit {
     mutable matches = 0;
