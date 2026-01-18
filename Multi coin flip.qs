@@ -26,6 +26,7 @@ operation MultiCoinFlip() : Unit {
         } else {
             set headsCount += 1;
         }
+        
     }
 
     // Report the final tally
