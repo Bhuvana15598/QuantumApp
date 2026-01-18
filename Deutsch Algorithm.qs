@@ -34,5 +34,6 @@ operation DeutschAlgorithm() : Unit {
         Message("The Box is CONSTANT (Quantum computer found this in 1 try!)");
     }
 }
+
 }
 
