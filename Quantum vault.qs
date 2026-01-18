@@ -14,7 +14,7 @@
         // 3. The security glitch
         X(qB);
     
-    //4. Measure both
+    //4. Measure both 
     let resA = MResetZ(qA);
     let resB = MResetZ(qB);
 
