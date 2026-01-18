@@ -46,6 +46,7 @@ operation TeleportSecretMessage() : Unit {
     } else {
         Message("FAILED: The message did not arrive.");
     }
+    
 }
 }
 
