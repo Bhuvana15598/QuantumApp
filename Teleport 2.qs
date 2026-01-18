@@ -50,5 +50,6 @@ operation TeleportScenario(input : Result) : Result {
     // 6. Return the final result found at the destination
     return MResetZ(bobBridge);
 }
+
 }
 
